@@ -1,12 +1,12 @@
 # NLW eSports 
 
-![preview]()
+![preview](Preview.png)
 
 > Trilha Explorer
 
 Projeto constuido do evento Next Level Week da Rocketseat mostrando alguns jogos que eu jogo e streamers que eu acompanho e esse é um dos meus primeiros projetos que está sendo colocado no meu Github espero que gostem  😉.
 
-[ 🔗 Clique aqui agora para acessar]()
+[ 🔗 Clique aqui agora para acessar](https://mrsulyvahn.github.io/eSports/)
 
 ## 🔨 Tecnologias
 
